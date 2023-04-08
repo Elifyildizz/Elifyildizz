@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Elifyildizz
 - 👀 I’m interested in software
-- 💞️ I’m looking to collaborate on https://www.linkedin.com/in/elif-yildiz-867aa5169/
+- 💞️ I’m looking to collaborate on https://www.linkedin.com/in/elif-yildizz/
 - 📫 How to reach me yildiz.elifffff@gmail.com
 
 <!---
