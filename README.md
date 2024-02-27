@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elifyildizz
 - 👀 I’m interested in software
 - 💞️ I’m looking to collaborate on https://www.linkedin.com/in/elif-yildizz/
-- 📫 How to reach me yildiz.elifffff@gmail.com
+
 
 <!---
 Elifyildizz/Elifyildizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
