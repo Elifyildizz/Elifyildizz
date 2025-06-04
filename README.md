@@ -9,7 +9,7 @@
 - 👩‍💻 I’m **@Elifyildizz**
 - 🎓 MSc Student @ **Sakarya University – Software Engineering**
 - 🎓 BSc Graduate @ **Üsküdar University – Software Engineering**
-- 🧪 Working as a **Research Assistant**
+- 🧪 Working as a **Research Assistant** @ **University of Turkish Aeronautical Association**
 - 🌍 Based in **Türkiye 🇹🇷**
 
 
