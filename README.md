@@ -3,7 +3,6 @@
   🧠 Software Engineering MSc | 🔬 Research Assistant at UTAA
 </p>
 
----
 
 ## 🚀 About Me
 
@@ -13,13 +12,11 @@
 - 🧪 Working as a **Research Assistant**
 - 🌍 Based in **Türkiye 🇹🇷**
 
----
 
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn – Elif Yıldız](https://www.linkedin.com/in/elif-yildizz/)
 
----
 
 ## 📊 GitHub Stats
 
