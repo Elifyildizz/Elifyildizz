@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Elif Yıldız</h1>
 <p align="center">
-  🧠 Software Engineering MSc | 🔬 Research Assistant at UTAA
+  🧠 Software Engineering MSc | 🔬 Research Assistant at UTAA | 💼 <a href="https://www.linkedin.com/in/elif-yildizz/">LinkedIn – Elif Yıldız</a>
 </p>
-
 
 ## 🚀 About Me
 
@@ -11,12 +10,6 @@
 - 🎓 BSc Graduate @ **Üsküdar University – Software Engineering**
 - 🧪 Working as a **Research Assistant** @ **University of Turkish Aeronautical Association**
 - 🌍 Based in **Türkiye 🇹🇷**
-
-
-## 📫 Connect with Me
-
-- 💼 [LinkedIn – Elif Yıldız](https://www.linkedin.com/in/elif-yildizz/)
-
 
 ## 📊 GitHub Stats
 
